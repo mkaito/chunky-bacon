@@ -1,7 +1,7 @@
 # Chunky Bacon
 
-This mod aims to chunk-align anything that can be. Once you go chunky, you
-never go... spelunky? I'm bad with words.
+This mod aims to chunk-align anything that can be. Once you go chunky, your
+designs will never be funky.
 
 When creating chunk-aligned blueprints, it helps tremendously for ranges,
 areas, and distances to be a factor or multiple of the standard in-game chunk
@@ -56,3 +56,8 @@ Logistics radius changed from 28 to 32, construction radius from 54 to 64.
 
 Two roboports will happily connect over two chunks and construct a 4x4 chunk
 bos around them.
+
+## Contributing
+
+This mod is open source. Feel free to fork and contribute back as you wish.
+Please use GitHub for discussion and contribution.
