@@ -1,0 +1,13 @@
+{
+    "name": "chunky-bacon",
+    "version": "0.0.1",
+    "title": "Chunky Bacon",
+    "author": "mkaito",
+    "contact": "",
+    "homepage": "",
+    "factorio_version": "0.17",
+    "dependencies": [
+        "base >= 0.17"
+    ],
+    "description": "Chunk-align your mojo"
+}
